@@ -1,0 +1,8 @@
+#select {
+    overflow: auto;
+    appearance: none;
+}
+
+option {
+    appearance: none;
+}
